@@ -650,7 +650,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "2010a3a0-7830-4e1d-b762-4ab1659e1d48")
-		(property "Sheetname" "Peripherals"
+		(property "Sheetname" "Peripherals and Power"
 			(at 36.83 71.6784 0)
 			(effects
 				(font
