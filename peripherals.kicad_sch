@@ -10288,6 +10288,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C97502"
+			(at 248.92 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "4b343a88-194a-435a-bd37-f7b5dd12ff56")
 		)
@@ -10324,7 +10333,7 @@
 				)
 			)
 		)
-		(property "Value" "USB_B_Micro"
+		(property "Value" "Amph 10118193-0001LF"
 			(at 130.81 53.34 0)
 			(effects
 				(font
@@ -11008,7 +11017,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 179.07 59.6962 0)
 			(effects
 				(font
@@ -11036,6 +11045,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 176.53 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C190183"
 			(at 176.53 58.42 0)
 			(effects
 				(font
@@ -11077,7 +11095,7 @@
 				)
 			)
 		)
-		(property "Value" "USB1"
+		(property "Value" "Amph 10118193-0001LF"
 			(at 170.18 226.06 0)
 			(effects
 				(font
@@ -11282,6 +11300,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C19666"
+			(at 283.21 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bb2fcd17-dbc8-4248-82b0-589f006dbfe5")
 		)
@@ -11478,7 +11505,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uF"
 			(at 33.02 232.4162 0)
 			(effects
 				(font
@@ -11506,6 +11533,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 30.48 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C19702"
 			(at 30.48 231.14 0)
 			(effects
 				(font
@@ -12158,6 +12194,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C25100"
+			(at 157.48 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1dc5ea63-257e-42d9-8648-4243ebaf76d7")
 		)
@@ -12358,6 +12403,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C138045"
+			(at 207.01 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6b97728e-b837-483d-9e43-a608d36bc1c1")
 		)
@@ -12392,7 +12446,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 46.99 109.2262 0)
 			(effects
 				(font
@@ -12428,7 +12482,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C1525"
+		(property "MPN" "C190183"
 			(at 49.53 107.95 0)
 			(effects
 				(font
@@ -12668,7 +12722,7 @@
 				)
 			)
 		)
-		(property "Value" "Micro_SD_Card_Det2"
+		(property "Value" "Molex 1040310811"
 			(at 99.695 226.06 0)
 			(effects
 				(font
@@ -12928,7 +12982,7 @@
 				)
 			)
 		)
-		(property "Value" "BAT60JFILM"
+		(property "Value" "1N5819WS"
 			(at 142.24 35.052 0)
 			(effects
 				(font
@@ -12963,7 +13017,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C133103"
+		(property "MPN" "C191023"
 			(at 144.78 38.1 0)
 			(effects
 				(font
@@ -13097,6 +13151,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 207.01 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C138045"
 			(at 207.01 238.76 0)
 			(effects
 				(font
@@ -13441,7 +13504,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 199.39 43.1862 0)
 			(effects
 				(font
@@ -13469,6 +13532,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 196.85 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C190183"
 			(at 196.85 41.91 0)
 			(effects
 				(font
@@ -13666,7 +13738,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 41.91 232.4162 0)
 			(effects
 				(font
@@ -13694,6 +13766,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 39.37 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C190183"
 			(at 39.37 231.14 0)
 			(effects
 				(font
@@ -14401,6 +14482,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C25100"
+			(at 157.48 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0e8dbf13-94cf-4729-a4d3-b4f0b7060934")
 		)
@@ -14461,6 +14551,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 46.99 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C138045"
 			(at 46.99 166.37 0)
 			(effects
 				(font
@@ -14676,6 +14775,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 283.21 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C19666"
 			(at 283.21 121.92 0)
 			(effects
 				(font
@@ -15110,6 +15218,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 46.99 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C138045"
 			(at 46.99 152.4 0)
 			(effects
 				(font
@@ -16045,7 +16162,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 378.46 184.1562 0)
 			(effects
 				(font
@@ -16479,7 +16596,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 231.14 142.2335 0)
 			(effects
 				(font
@@ -16507,6 +16624,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 228.6 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C190183"
 			(at 228.6 140.97 0)
 			(effects
 				(font
@@ -16603,7 +16729,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "bb9dc2e5-9019-40cf-80bc-4b42c198cf89")
 		(property "Reference" "J403"
@@ -17207,7 +17333,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "1uF"
 			(at 154.94 231.1462 0)
 			(effects
 				(font
@@ -17235,6 +17361,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 157.48 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C15849"
 			(at 157.48 229.87 0)
 			(effects
 				(font
@@ -17656,6 +17791,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C19666"
+			(at 283.21 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "18ce45b1-af69-48cf-99f7-2dda36cff77b")
 		)
@@ -17717,6 +17861,15 @@
 			)
 		)
 		(property "Description" "500mA Low-Dropout Linear Regulator, Adjustable Output, WSON-6"
+			(at 359.41 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C2876308"
 			(at 359.41 120.65 0)
 			(effects
 				(font
@@ -18116,7 +18269,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 144.7736 45.72 90)
 			(effects
 				(font
@@ -19419,7 +19572,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7u"
+		(property "Value" "4.7uF"
 			(at 190.5 43.1862 0)
 			(effects
 				(font
@@ -19447,6 +19600,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 187.96 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C19666"
 			(at 187.96 41.91 0)
 			(effects
 				(font

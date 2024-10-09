@@ -2031,7 +2031,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "NSR0530HT1G"
+		(property "Value" "1N5819WS"
 			(at 171.45 66.2939 90)
 			(effects
 				(font
@@ -2059,6 +2059,15 @@
 			)
 		)
 		(property "Description" "Schottky diode, small symbol"
+			(at 168.91 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C191023"
 			(at 168.91 64.77 0)
 			(effects
 				(font
@@ -2101,7 +2110,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 171.45 74.9362 0)
 			(effects
 				(font
@@ -2129,6 +2138,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 168.91 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C190183"
 			(at 168.91 73.66 0)
 			(effects
 				(font
@@ -2237,7 +2255,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 115.57 82.5562 0)
 			(effects
 				(font
@@ -2265,6 +2283,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 113.03 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C190183"
 			(at 113.03 81.28 0)
 			(effects
 				(font
@@ -2373,7 +2400,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "HDMI_C_1.3"
+		(property "Value" "GT-HD005A-CGNG0"
 			(at 172.72 113.0299 0)
 			(effects
 				(font
@@ -2506,7 +2533,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 87.63 82.5562 0)
 			(effects
 				(font
@@ -2534,6 +2561,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 85.09 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C190183"
 			(at 85.09 81.28 0)
 			(effects
 				(font
@@ -2576,7 +2612,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 124.46 82.5562 0)
 			(effects
 				(font
@@ -2604,6 +2640,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 121.92 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C190183"
 			(at 121.92 81.28 0)
 			(effects
 				(font
@@ -2799,7 +2844,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 78.74 82.5562 0)
 			(effects
 				(font
@@ -2827,6 +2872,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 76.2 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C190183"
 			(at 76.2 81.28 0)
 			(effects
 				(font
@@ -2869,7 +2923,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 69.85 82.5562 0)
 			(effects
 				(font
@@ -2897,6 +2951,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 67.31 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C190183"
 			(at 67.31 81.28 0)
 			(effects
 				(font
@@ -3005,7 +3068,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 106.68 82.5562 0)
 			(effects
 				(font
@@ -3033,6 +3096,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 104.14 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C190183"
 			(at 104.14 81.28 0)
 			(effects
 				(font
@@ -3075,7 +3147,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 97.79 82.5562 0)
 			(effects
 				(font
@@ -3103,6 +3175,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 95.25 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C190183"
 			(at 95.25 81.28 0)
 			(effects
 				(font
@@ -3211,7 +3292,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 60.96 82.5562 0)
 			(effects
 				(font
@@ -3239,6 +3320,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 58.42 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C190183"
 			(at 58.42 81.28 0)
 			(effects
 				(font

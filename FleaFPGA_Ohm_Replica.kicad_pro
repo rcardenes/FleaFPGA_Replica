@@ -58,7 +58,14 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|104538566|86260001|2cf889d6-9fa5-4979-b75f-490e3a601fa8|45a66d57-bab7-46d9-87a5-4f5a715a28a0",
+        "courtyards_overlap|106100001|105109494|11cdd0de-c7e7-4734-bdd1-18cb4f472532|14eec035-fb49-4bd1-9ad0-8798952008a8",
+        "courtyards_overlap|106575001|86260001|45a66d57-bab7-46d9-87a5-4f5a715a28a0|7e0a66c7-688d-4c00-bd7c-7f1c74e1009d",
+        "starved_thermal|103500000|106500000|841a009f-7629-403c-b6b1-d9810b12ef39|3e746200-ca92-4ff4-8e64-34cc21f74248|B.Cu",
+        "starved_thermal|103500000|106500000|841a009f-7629-403c-b6b1-d9810b12ef39|3e746200-ca92-4ff4-8e64-34cc21f74248|F.Cu",
+        "starved_thermal|103500000|106500000|841a009f-7629-403c-b6b1-d9810b12ef39|3e746200-ca92-4ff4-8e64-34cc21f74248|In1.Cu"
+      ],
       "meta": {
         "version": 2
       },
@@ -605,10 +612,10 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
-          "group_by": false,
+          "group_by": true,
           "label": "Footprint",
           "name": "Footprint",
           "show": true
@@ -623,12 +630,30 @@
           "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },

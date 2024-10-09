@@ -1861,7 +1861,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 124.46 58.4262 0)
 			(effects
 				(font
@@ -1889,6 +1889,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 121.92 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1525"
 			(at 121.92 57.15 0)
 			(effects
 				(font
@@ -1997,7 +2006,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "W958D8NBYA5I"
 			(at 150.7841 66.04 0)
 			(effects
 				(font
@@ -2025,6 +2034,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 146.05 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " C7420405 "
 			(at 146.05 81.28 0)
 			(effects
 				(font
@@ -2133,7 +2151,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uF"
 			(at 106.68 58.4262 0)
 			(effects
 				(font
@@ -2161,6 +2179,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 104.14 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C15525"
 			(at 104.14 57.15 0)
 			(effects
 				(font
@@ -2203,7 +2230,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 115.57 58.4262 0)
 			(effects
 				(font
@@ -2231,6 +2258,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 113.03 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1525"
 			(at 113.03 57.15 0)
 			(effects
 				(font
@@ -2339,7 +2375,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100nF"
 			(at 133.35 58.4262 0)
 			(effects
 				(font
@@ -2367,6 +2403,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 130.81 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C1525"
 			(at 130.81 57.15 0)
 			(effects
 				(font
