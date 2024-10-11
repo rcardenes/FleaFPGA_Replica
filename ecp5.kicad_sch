@@ -689,6 +689,7 @@
 						)
 					)
 					(alternate "" input line)
+					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at -25.4 12.7 0)
@@ -707,6 +708,7 @@
 							)
 						)
 					)
+					(alternate "" input line)
 					(alternate "" input line)
 				)
 				(pin bidirectional line
@@ -21665,6 +21667,7 @@
 		)
 		(pin "C8"
 			(uuid "f4bc7e38-d183-498e-bd4c-9edf2ac21c7e")
+			(alternate "PCLKT1_0")
 		)
 		(pin "C3"
 			(uuid "f10474a7-22d6-46bc-9db9-0416539bb205")
@@ -21935,6 +21938,7 @@
 		)
 		(pin "B8"
 			(uuid "0d0e516b-4c15-423e-88ad-43ae31f28822")
+			(alternate "PCLKC1_0")
 		)
 		(pin "L9"
 			(uuid "a5d2ce6f-aca9-4896-b210-72b76b7745e3")
@@ -24936,6 +24940,7 @@
 		)
 		(pin "C8"
 			(uuid "f4bc7e38-d183-498e-bd4c-9edf2ac21c7f")
+			(alternate "PCLKT1_0")
 		)
 		(pin "C3"
 			(uuid "f10474a7-22d6-46bc-9db9-0416539bb206")
@@ -25206,6 +25211,7 @@
 		)
 		(pin "B8"
 			(uuid "0d0e516b-4c15-423e-88ad-43ae31f28823")
+			(alternate "PCLKC1_0")
 		)
 		(pin "L9"
 			(uuid "a5d2ce6f-aca9-4896-b210-72b76b7745e4")

@@ -160,7 +160,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Package_BGA_Extra:FBGA-25_8x6mm_Layout5x5_P1mm"
+			(property "Footprint" "Package_BGA_Extra:FBGA-25_8x6mm_Layout5x6_P1mm"
 				(at 0.762 -21.844 0)
 				(effects
 					(font
@@ -2015,7 +2015,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_BGA_Extra:FBGA-25_8x6mm_Layout5x5_P1mm"
+		(property "Footprint" "Package_BGA_Extra:FBGA-25_8x6mm_Layout5x6_P1mm"
 			(at 146.812 103.124 0)
 			(effects
 				(font
