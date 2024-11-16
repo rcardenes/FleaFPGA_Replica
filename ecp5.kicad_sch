@@ -689,7 +689,6 @@
 						)
 					)
 					(alternate "" input line)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at -25.4 12.7 0)
@@ -708,7 +707,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 					(alternate "" input line)
 				)
 				(pin bidirectional line
@@ -5403,7 +5401,6 @@
 						)
 					)
 					(alternate "" input line)
-					(alternate "" input line)
 				)
 				(pin bidirectional line
 					(at -25.4 12.7 0)
@@ -5422,7 +5419,6 @@
 							)
 						)
 					)
-					(alternate "" input line)
 					(alternate "" input line)
 				)
 				(pin bidirectional line
@@ -15154,6 +15150,9 @@
 			)
 		)
 	)
+	(bus_alias "JTAG"
+		(members "TDI" "TDO" "TMS" "TCK")
+	)
 	(junction
 		(at 311.15 132.08)
 		(diameter 0)
@@ -19432,7 +19431,7 @@
 			)
 		)
 	)
-	(global_label "UART_RX"
+	(global_label "UART_TX"
 		(shape input)
 		(at 177.8 203.2 180)
 		(fields_autoplaced yes)
@@ -19444,7 +19443,7 @@
 		)
 		(uuid "7653da60-801d-4b89-b24e-1e3fe14e9af9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 166.711 203.2 0)
+			(at 167.0134 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
